@@ -57,6 +57,11 @@ update namespace from default to [namespace] and FQDN to [namespace].iam.example
 ## testing
 
     kubectl get pods
+    
+## password
+
+    cd bin                    
+    ./print-secrets.sh amadmin
 
 ## clean up
 
