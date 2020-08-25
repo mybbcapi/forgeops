@@ -1,6 +1,6 @@
 # forgeops
 
-ForgeRock sandbox for experimentation
+ForgeRock sandbox for experimentation running on a 16GB MacBook Pro
 
 ## Installation
 
